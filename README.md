@@ -7,10 +7,11 @@ Zumindest für alle Gebiete in Berlin, wo Parkraumbewirtschaftung stattfindet od
 https://www.berlin.de/hauptstadtluft/luftverbesserung/parkraumbewirtschaftung/
 ![](imgs/uebersicht.JPG)  
 
-## vorhandene Machbareitsstudien / Gutachten
+## vorhandene Machbarkeitsstudien / Gutachten / Verkehrskonzepte
 ### Pankow:
 * https://www.berlin.de/ba-pankow/politik-und-verwaltung/aemter/ordnungsamt/parkraumueberwachung/artikel.437885.php
 ![](imgs/pankow_.JPG)  
+![](imgs/pankow_41_43.JPG)  
 
 * https://docplayer.org/51150540-Wohnen-an-der-michelangelostrasse.html
 ![](imgs/pankow_michelangelo.JPG)  
@@ -39,7 +40,7 @@ https://www.berlin.de/hauptstadtluft/luftverbesserung/parkraumbewirtschaftung/
 https://www.stadtentwicklung.berlin.de/staedtebau/foerderprogramme/stadtumbau/fileadmin/_migrated/content_uploads/111212_Praesentation_Verkehrs-uParkraumkonzept.pdf
 ![](imgs/lichtenberg_.JPG)  
 
-## IFG-Anfragen zu  Machbareitsstudien / Gutachten
+## IFG-Anfragen zu  Machbarkeitsstudien / Gutachten
 * Fhain-Xberg: https://fragdenstaat.de/anfrage/gutachten-zu-parkraumbewirtschaftungszonen-des-bezirks/
 * Steglitz: https://fragdenstaat.de/anfrage/gutachten-zu-parkraumbewirtschaftungszonen-des-bezirks-steglitz-zehlendorf/
 * Charlottenburg-Wilmersdorf: https://fragdenstaat.de/anfrage/gutachten-zu-parkraumbewirtschaftungszonen-des-bezirks-charlottenburg-wilmersdorf/
