@@ -28,7 +28,13 @@ https://www.berlin.de/hauptstadtluft/luftverbesserung/parkraumbewirtschaftung/
 * https://www.lk-argus.de/downloads/LK-Argus253_PRB_Schoeneberg.pdf
 ![](imgs/schoneberg_.JPG)  
 
+### Köpenick:
+* https://docplayer.org/62298033-Untersuchung-zur-parkraumbewirtschaftung.html
+![](imgs/koepenick_.JPG)  
 
+### Lichtenberg:
+https://www.stadtentwicklung.berlin.de/staedtebau/foerderprogramme/stadtumbau/fileadmin/_migrated/content_uploads/111212_Praesentation_Verkehrs-uParkraumkonzept.pdf
+![](imgs/lichtenberg_.JPG)  
 
 ## IFG-Anfragen zu  Machbareitsstudien / Gutachten
 * Fhain-Xberg: https://fragdenstaat.de/anfrage/gutachten-zu-parkraumbewirtschaftungszonen-des-bezirks/
