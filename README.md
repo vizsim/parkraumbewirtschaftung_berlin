@@ -12,7 +12,7 @@ https://www.berlin.de/hauptstadtluft/luftverbesserung/parkraumbewirtschaftung/
 * https://www.berlin.de/ba-pankow/politik-und-verwaltung/aemter/ordnungsamt/parkraumueberwachung/artikel.437885.php
 ![](imgs/pankow_.JPG)  
 
-*https://docplayer.org/51150540-Wohnen-an-der-michelangelostrasse.html
+* https://docplayer.org/51150540-Wohnen-an-der-michelangelostrasse.html
 ![](imgs/pankow_michelangelo.JPG)  
 
 ### Fhain-Xberg:
@@ -42,3 +42,5 @@ https://www.stadtentwicklung.berlin.de/staedtebau/foerderprogramme/stadtumbau/fi
 ## IFG-Anfragen zu  Machbareitsstudien / Gutachten
 * Fhain-Xberg: https://fragdenstaat.de/anfrage/gutachten-zu-parkraumbewirtschaftungszonen-des-bezirks/
 * Steglitz: https://fragdenstaat.de/anfrage/gutachten-zu-parkraumbewirtschaftungszonen-des-bezirks-steglitz-zehlendorf/
+* Charlottenburg-Wilmersdorf: https://fragdenstaat.de/anfrage/gutachten-zu-parkraumbewirtschaftungszonen-des-bezirks-charlottenburg-wilmersdorf/
+* Mitte: https://fragdenstaat.de/anfrage/gutachten-zu-parkraumbewirtschaftungszonen-des-bezirks-mitte/
