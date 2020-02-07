@@ -19,17 +19,24 @@ https://www.berlin.de/hauptstadtluft/luftverbesserung/parkraumbewirtschaftung/
 * http://parkeninfhain.de/fileadmin/user_upload/PDF/151209_LK_Argus_-_Oberbaumcity_PRB_Endbericht.pdf (dead link)
 * http://parkeninfhain.de/fileadmin/user_upload/fhain/Parkraumbew_BoxQuartier_Abschlussbericht_1306031_kl.pdf (dead link)
 
-### Charlottenburg:
+### Charlottenburg-Wilmersdorf:
 * https://www.berlin.de/ba-charlottenburg-wilmersdorf/service/formulare/artikel.194652.php
 
-### Schoeneberg:
+### Tempelhof-Schöneberg:
 * https://www.lk-argus.de/downloads/LK-Argus253_PRB_Schoeneberg.pdf
 ![](imgs/schoneberg_.JPG)  
 
+### Mitte
+* http://www.pankstrasse-quartier.de/images/Projekte/2016-18_Verkehrskonzept/Abschlussbericht_Verkehrskonzept_-_Pankstra%C3%9Fe_QM.pdf
+![](imgs/mitte_pankstr.JPG)  
 
 
 ## IFG-Anfragen zu Machbarkeitsstudien / Gutachten
-* Fhain-Xberg: 
+* Fhain-Xberg:  
   https://fragdenstaat.de/anfrage/gutachten-zu-parkraumbewirtschaftungszonen-des-bezirks/
-* Steglitz: 
+* Steglitz:  
   https://fragdenstaat.de/anfrage/gutachten-zu-parkraumbewirtschaftungszonen-des-bezirks-steglitz-zehlendorf/
+* Charlottenburg-Wilmersdorf:  
+  https://fragdenstaat.de/anfrage/gutachten-zu-parkraumbewirtschaftungszonen-des-bezirks-charlottenburg-wilmersdorf/  
+* Mitte:  
+  https://fragdenstaat.de/anfrage/gutachten-zu-parkraumbewirtschaftungszonen-des-bezirks-mitte/
