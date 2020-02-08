@@ -45,3 +45,7 @@ https://www.stadtentwicklung.berlin.de/staedtebau/foerderprogramme/stadtumbau/fi
 * Steglitz: https://fragdenstaat.de/anfrage/gutachten-zu-parkraumbewirtschaftungszonen-des-bezirks-steglitz-zehlendorf/
 * Charlottenburg-Wilmersdorf: https://fragdenstaat.de/anfrage/gutachten-zu-parkraumbewirtschaftungszonen-des-bezirks-charlottenburg-wilmersdorf/
 * Mitte: https://fragdenstaat.de/anfrage/gutachten-zu-parkraumbewirtschaftungszonen-des-bezirks-mitte/
+
+## Länger zurückligende IFG-Anfragen zu dem Thema
+* https://fragdenstaat.de/anfrage/parkraum-in-berlin-anzahl-von-parkplatzen-pro-lor/
+* https://fragdenstaat.de/anfrage/parkraum-in-berlin-friedrichshain-kreuzberg-anzahl-von-parkplatzen-pro-lor/
